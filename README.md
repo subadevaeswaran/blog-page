@@ -1,2 +1,2 @@
 # blog-page
-blog
+https://subadevaeswaran.github.io/blog-page/site/site.html
